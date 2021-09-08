@@ -13,11 +13,11 @@
 ```
 
 ```sh
-ในไฟล์ .env ประกาศตัวแปรชื่อ TOKEN จะมีรูปแบบดังนี้ TOKEN=< your user token > 
+ในไฟล์ .env ประกาศตัวแปรชื่อ TOKEN จะมีรูปแบบดังนี้ TOKEN=< your user token > *** เวลาใส่ข้อมูลจริงๆไม่ต้องมี < > ***
 ```
 
 ```sh
-ในไฟล์ AutoText.py ให้ใส่ Channel ID แทนลงไปในชื่อที่เขียนว่า < your channel id >
+ในไฟล์ AutoText.py ให้ใส่ Channel ID แทนลงไปในบริเวณที่เขียนว่า < your channel id > *** เวลาใส่ข้อมูลจริงๆไม่ต้องมี < > ***
 ```
 
 ```sh
