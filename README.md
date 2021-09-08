@@ -1,2 +1,5 @@
 # SpamText-ForTatsu
-Script โง่ๆไว้ใช้สแปมข้อความ เพื่อปั้มเวล TatsuBot บน Discord
+ทำการสแปมข้อความเข้าห้องแชทที่ตั้งไว้ทุกๆ 121 วินาที เพื่อปั้มโปรไฟล์เลเวล
+
+![image](https://user-images.githubusercontent.com/41195318/132428418-abbb6784-76d8-4e17-aca5-6cfa0a3255e5.png)
+
