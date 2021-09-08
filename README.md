@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/41195318/132428418-abbb6784-76d8-4e17-aca5-6cfa0a3255e5.png)
 
 ## Installation
-```sh
+```
 เปิด cmd แล้วติดตั้ง pip install python-decouple
 ```
 
