@@ -5,11 +5,11 @@ from time import sleep
 from decouple import config
 
 
-TOKEN = config('TOKEN')
+TOKEN = config('TOKEN') #get user token from .env file. search google if u don know how to find it!
 header = { 
 	"content-type": "application/json", 
 	"user-agent": "Spam-Message-for-Tatsu", 
-	"authorization": TOKEN, #your user token search google if u don know how to find it!
+	"authorization": TOKEN,
 }
  
 def get_connection(): 
