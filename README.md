@@ -1,6 +1,6 @@
 # SpamText-ForTatsu
 ทำการสแปมข้อความเข้าห้องแชทที่ตั้งไว้ทุกๆ 121 วินาที เพื่อปั้มเวล
-![image](https://user-images.githubusercontent.com/41195318/132435296-09aa28ec-b205-46f1-aeb0-75602e76b9fb.png)
+![image](https://user-images.githubusercontent.com/41195318/132437285-bf881073-1d51-425b-8c37-bf52549bba0d.png)
 
 ## Installation
 ```
