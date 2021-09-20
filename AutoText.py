@@ -8,7 +8,7 @@ TOKEN = config('TOKEN')
 header = { 
 	"content-type": "application/json", 
 	"user-agent": "Spam-Message-for-Tatsu", 
-	"authorization": TOKEN, 
+	"authorization": TOKEN, #get user token from .env file. search google if u don know how to find it!
 }
  
 def get_connection(): 
