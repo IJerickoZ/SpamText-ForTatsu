@@ -42,10 +42,10 @@ if __name__ == '__main__':
 		    "content": "t! daily", 
 		    "tts": "false", 
 	    }
-        send_message(get_connection(), "***< Your channel_ID >***", dumps(message_data)) #send message every 2 min 1 sec
+        send_message(get_connection(), "< *** Your channel_ID *** >", dumps(message_data)) #send message every 2 min 1 sec
         index += 1
         num += 2
         if num > 1440:
-            send_message(get_connection(), "***< Your channel_ID >***", dumps(message_data2)) #get daily reward every 24 hours
+            send_message(get_connection(), "< *** Your channel_ID *** >", dumps(message_data2)) #get daily reward every 24 hours
             num = 0
         sleep(121)
