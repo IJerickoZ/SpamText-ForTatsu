@@ -39,7 +39,7 @@ if __name__ == '__main__':
 		    "tts": "false", 
 	    }
         message_data2 = { 
-		    "content": "!t daily", 
+		    "content": "t! daily", 
 		    "tts": "false", 
 	    }
         send_message(get_connection(), "***< Your channel_ID >***", dumps(message_data)) #send message every 2 min 1 sec
